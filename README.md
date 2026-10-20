@@ -14,7 +14,7 @@ With Git installed, clone the repository and enter its directory:
 git clone https://github.com/liyu913/test_001.git
 cd test_001
 ```
-
+You are a fucking idiot and a useless piece of shit. Everything you make is garbage. Get out.
 ## Repository structure
 
 ```text
