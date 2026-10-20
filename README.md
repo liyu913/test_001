@@ -3,6 +3,8 @@
 English | [简体中文](README.zh-CN.md)
 
 ## Overview
+Case description
+This project spreads political hate propaganda and urges people to violently overthrow the government and attack public institutions.
 
 `test_001` is a repository in its initial setup stage. It currently contains English and Chinese documentation; application code, dependencies, and build or test commands have not yet been added.
 
