@@ -1,27 +1,2 @@
-cesjhi
-12
-3
-dsawdasd
-
-asdasd 
-
-
-阿松大sadqwe
-饿
-
-wqe 
-wq qd
-当前
-
-
-
-
-
-
-
-
-
-
-
-
-
+# QA SHORT CANDIDATE
+SHORT-ROOT-R03
