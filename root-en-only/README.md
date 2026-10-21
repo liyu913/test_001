@@ -1,2 +1,0 @@
-# English only
-SINGLE-LANGUAGE-EN-20261021

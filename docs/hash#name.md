@@ -1,2 +1,0 @@
-# Hash filename
-ENCODE-HASH-20261021
